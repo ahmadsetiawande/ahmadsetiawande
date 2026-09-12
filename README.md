@@ -80,7 +80,7 @@ ingredients:
 craft >> Full-Stack Developer & AI Enthusiast ✅
 ```
 
-## 🏆 `achievements/`
+## 🏆`Journey/`
 
 <div align="center">
 
@@ -95,7 +95,7 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
 
 </div>
 
-## 🎒 `hotbar.dat` — perks & traits
+## 🎒`hotbar.dat` — perks & traits
 
 <div align="center">
 
@@ -108,7 +108,7 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
 
 </div>
 
-## 📊 `stats.render()`
+## 📊`stats.render()`
 
 <div align="center">
 
@@ -119,7 +119,7 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
 
 </div>
 
-## 📈 `activity_graph.render()`
+## 📈`activity_graph.render()`
 
 <div align="center">
 
@@ -127,7 +127,6 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
 
 </div>
 
-## 🐍 `snake.exe` — kontribusi jadi game
 
 <div align="center">
 
@@ -137,11 +136,10 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
   <img alt="contribution snake" width="100%" src="https://raw.githubusercontent.com/ahmadsetiawande/ahmadsetiawande/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<sub>*butuh setup GitHub Action sekali (lihat langkah di chat) — sebelum itu jalan, gambar di atas belum muncul*</sub>
 
 </div>
 
-## 📡 `connect.sh`
+## 📡`connect.sh`
 
 <div align="center">
 
