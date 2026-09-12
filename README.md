@@ -16,21 +16,26 @@
 
 ## 💻 `terminal.exe` — neofetch --player
 
-```
-
-┌──────────────────────────────────────────────┐
-│  ▓▓▓▓▓▓▓▓▓  ahmadsetiawande@github            │
-│  ▓▓▓▓▓▓▓▓▓  ────────────────────────          │
-│  ▓▓▓▓▓▓▓▓▓  OS         : Web Developer v2.0   │
-│  ▓▓▓▓▓▓▓▓▓  Class      : Full-Stack Adventurer│
-│  ▓▓▓▓▓▓▓▓▓  Guild Hall : Jakarta, Indonesia 🇮🇩 │
-│             Quest      : AI-powered web apps  │
-│             Level      : Journeyman ⚔️         │
-│             HP         : ❤️❤️❤️❤️❤️              │
-│             XP Bar     : 🟩🟩🟩🟩⬜ (Lv. Up soon) │
-└──────────────────────────────────────────────┘
+<table>
+<tr>
+<td><img src="./assets/minecraft-avatar.svg" width="190"/></td>
+<td>
 
 ```
+ahmadsetiawande@github
+────────────────────────
+OS         : Web Developer v2.0
+Class      : Full-Stack Adventurer
+Guild Hall : Jakarta, Indonesia 🇮🇩
+Quest      : AI-powered web apps
+Level      : Journeyman ⚔️
+HP         : ❤️❤️❤️❤️❤️
+XP Bar     : 🟩🟩🟩🟩⬜ (Lv. Up soon)
+```
+
+</td>
+</tr>
+</table>
 
 ## 🤖 `chat.log` — talking with my AI sidekick
 
@@ -42,7 +47,7 @@ Aone-AI  : Developer yang suka ngoprek AI API & bikin web app dari nol ⚡
 You      : skill andalan?
 Aone-AI  : JavaScript, Python, C#, dikit-dikit Next.js dan integrasi AI
 You      : lagi ngerjain apa sekarang?
-Aone-AI  : Lagi push commit sambil... sesekali healing di Minecraft 🌲⛏️
+Aone-AI  : Lagi push commit sambil dengerin lofi... sesekali healing di Minecraft 🌲⛏️
 ```
 
 ## ⚒️ `inventory.json` — tech stack
@@ -90,6 +95,19 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
 
 </div>
 
+## 🎒 `hotbar.dat` — perks & traits
+
+<div align="center">
+
+![Diamond](https://img.shields.io/badge/💎_Diamond-Kode_Berkualitas-4AEDD9?style=for-the-badge&labelColor=1a1a1a)
+![Bow](https://img.shields.io/badge/🏹_Bow-Debug_dari_Jarak_Jauh-8B5A2B?style=for-the-badge&labelColor=1a1a1a)
+![Totem of Undying](https://img.shields.io/badge/🛡️_Totem_of_Undying-Anti_Give_Up-FFD700?style=for-the-badge&labelColor=1a1a1a)
+![Torch](https://img.shields.io/badge/🔥_Torch-Nyala_Walau_Ngoding_Malam-FF8C00?style=for-the-badge&labelColor=1a1a1a)
+![Map](https://img.shields.io/badge/🗺️_Map-Roadmap_Belajar-D2B48C?style=for-the-badge&labelColor=1a1a1a)
+![Golden Apple](https://img.shields.io/badge/🍎_Golden_Apple-Extra_Semangat_Deadline-FFD700?style=for-the-badge&labelColor=1a1a1a)
+
+</div>
+
 ## 📊 `stats.render()`
 
 <div align="center">
@@ -98,6 +116,28 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsetiawande&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsetiawande&hide_border=true&background=0D1117&ring=39FF14&fire=FFD700&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+
+</div>
+
+## 📈 `activity_graph.render()`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadsetiawande&theme=react-dark&bg_color=0D1117&color=39FF14&line=39FF14&point=FFD700&area=true&hide_border=true&area_color=39FF14" />
+
+</div>
+
+## 🐍 `snake.exe` — kontribusi jadi game
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadsetiawande/ahmadsetiawande/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadsetiawande/ahmadsetiawande/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" width="100%" src="https://raw.githubusercontent.com/ahmadsetiawande/ahmadsetiawande/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>*butuh setup GitHub Action sekali (lihat langkah di chat) — sebelum itu jalan, gambar di atas belum muncul*</sub>
 
 </div>
 
