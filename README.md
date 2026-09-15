@@ -80,7 +80,7 @@ ingredients:
 craft >> Full-Stack Developer & AI Enthusiast ✅
 ```
 
-## 🏆`Journey/`
+## 🏆 `achievements/`
 
 <div align="center">
 
@@ -95,7 +95,7 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
 
 </div>
 
-## 🎒`hotbar.dat` — perks & traits
+## 🎒 `hotbar.dat` — perks & traits
 
 <div align="center">
 
@@ -108,18 +108,17 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
 
 </div>
 
-## 📊`stats.render()`
+## 📊 `stats.render()`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadsetiawande&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&ring_color=39FF14" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsetiawande&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsetiawande&hide_border=true&background=0D1117&ring=39FF14&fire=FFD700&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+![Followers](https://img.shields.io/github/followers/ahmadsetiawande?style=for-the-badge&color=39FF14&labelColor=1a1a1a&label=FOLLOWERS)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmadsetiawande&label=REPOS&query=%24.public_repos&color=39FF14&style=for-the-badge&labelColor=1a1a1a)
+![Profile Views](https://komarev.com/ghpvc/?username=ahmadsetiawande&color=39ff14&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-## 📈`activity_graph.render()`
+## 📈 `activity_graph.render()`
 
 <div align="center">
 
@@ -127,6 +126,7 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
 
 </div>
 
+## 🐍 `snake.exe` — kontribusi jadi game
 
 <div align="center">
 
@@ -136,10 +136,11 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
   <img alt="contribution snake" width="100%" src="https://raw.githubusercontent.com/ahmadsetiawande/ahmadsetiawande/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<sub>*butuh setup GitHub Action sekali (lihat langkah di chat) — sebelum itu jalan, gambar di atas belum muncul*</sub>
 
 </div>
 
-## 📡`connect.sh`
+## 📡 `connect.sh`
 
 <div align="center">
 
