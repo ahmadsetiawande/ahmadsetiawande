@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td><img src="./assets/minecraft-avatar.svg" width="190"/></td>
+<td><img src="./assets/minecraft_avatar.svg" width="190"/></td>
 <td>
 
 ```
