@@ -26,7 +26,7 @@ ahmadsetiawande@github
 ────────────────────────
 OS         : Web Developer v2.0
 Class      : Full-Stack Adventurer
-Guild Hall : Jakarta, Indonesia 🇮🇩
+Guild Hall : Tangerang, Indonesia 🇮🇩
 Quest      : AI-powered web apps
 Level      : Journeyman ⚔️
 HP         : ❤️❤️❤️❤️❤️
@@ -47,7 +47,7 @@ Aone-AI  : Developer yang suka ngoprek AI API & bikin web app dari nol ⚡
 You      : skill andalan?
 Aone-AI  : JavaScript, Python, C#, dikit-dikit Next.js dan integrasi AI
 You      : lagi ngerjain apa sekarang?
-Aone-AI  : Lagi push commit sambil dengerin lofi... sesekali healing di Minecraft 🌲⛏️
+Aone-AI  : Lagi push commit... sesekali healing di Minecraft 🌲⛏️
 ```
 
 ## ⚒️ `inventory.json` — tech stack
