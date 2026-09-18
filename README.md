@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td><img src="assets/minecraft_avatar.svg" width="190"/></td>
+<td><img src="/assets/minecraft_avatar.svg" width="190"/></td>
 <td>
 
 ```
@@ -109,12 +109,19 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
 
 <div align="center">
 
-![Diamond](https://img.shields.io/badge/💎_Diamond-Kode_Berkualitas-4AEDD9?style=for-the-badge&labelColor=1a1a1a)
-![Bow](https://img.shields.io/badge/🏹_Bow-Debug_dari_Jarak_Jauh-8B5A2B?style=for-the-badge&labelColor=1a1a1a)
-![Totem of Undying](https://img.shields.io/badge/🛡️_Totem_of_Undying-Anti_Give_Up-FFD700?style=for-the-badge&labelColor=1a1a1a)
-![Torch](https://img.shields.io/badge/🔥_Torch-Nyala_Walau_Ngoding_Malam-FF8C00?style=for-the-badge&labelColor=1a1a1a)
-![Map](https://img.shields.io/badge/🗺️_Map-Roadmap_Belajar-D2B48C?style=for-the-badge&labelColor=1a1a1a)
-![Golden Apple](https://img.shields.io/badge/🍎_Golden_Apple-Extra_Semangat_Deadline-FFD700?style=for-the-badge&labelColor=1a1a1a)
+<img src="./assets/hud-bar.svg" width="100%"/>
+
+| Slot | Perk |
+|---|---|
+| 💎 Diamond | Kode berkualitas |
+| 🏹 Bow | Debug dari jarak jauh |
+| 🛡️ Totem of Undying | Anti give up |
+| 🔥 Torch | Nyala walau ngoding malam |
+| 🗺️ Map | Roadmap belajar |
+| 🍎 Golden Apple | Extra semangat pas deadline |
+| ⛏️ Pickaxe | Gali bug sampai akar-akarnya |
+| 📖 Book | Selalu belajar hal baru |
+| 🧪 Potion | Suka eksperimen sama AI API |
 
 </div>
 
