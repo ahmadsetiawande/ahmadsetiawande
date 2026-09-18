@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td><img src="./assets/minecraft_avatar.svg" width="190"/></td>
+<td><img src="assets/minecraft-avatar.svg" width="190"/></td>
 <td>
 
 ```
@@ -47,7 +47,7 @@ Aone-AI  : Developer yang suka ngoprek AI API & bikin web app dari nol ⚡
 You      : skill andalan?
 Aone-AI  : JavaScript, Python, C#, dikit-dikit Next.js dan integrasi AI
 You      : lagi ngerjain apa sekarang?
-Aone-AI  : Lagi push commit... sesekali healing di Minecraft ⛏️
+Aone-AI  : Lagi push commit... sesekali healing di Minecraft 🌲⛏️
 ```
 
 ## ⚒️ `inventory.json` — tech stack
@@ -92,6 +92,16 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
 
 ![Achievement 3](https://img.shields.io/badge/%F0%9F%8F%86_Achievement-Diamonds!-FFD700?style=for-the-badge&labelColor=1a1a1a)
 <br><sub>Publish situs portofolio pertama (ahmadsetiawande.github.io)</sub>
+
+</div>
+
+## 🧊 `world.render()` — kontribusi jadi chunk 3D
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ahmadsetiawande/ahmadsetiawande/output-3d/profile-gitblock.svg" width="100%"/>
+
+<sub>*butuh setup GitHub Action sekali (lihat langkah di chat) — sebelum itu jalan, gambar di atas belum muncul*</sub>
 
 </div>
 
