@@ -47,7 +47,7 @@ Aone-AI  : Developer yang suka ngoprek AI API & bikin web app dari nol ⚡
 You      : skill andalan?
 Aone-AI  : JavaScript, Python, C#, dikit-dikit Next.js dan integrasi AI
 You      : lagi ngerjain apa sekarang?
-Aone-AI  : Lagi push commit... sesekali healing di Minecraft 🌲⛏️
+Aone-AI  : Lagi push commit... sesekali healing di Minecraft ⛏️
 ```
 
 ## ⚒️ `inventory.json` — tech stack
@@ -101,8 +101,6 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
 
 <img src="https://raw.githubusercontent.com/ahmadsetiawande/ahmadsetiawande/output-3d/profile-gitblock.svg" width="100%"/>
 
-<sub>*butuh setup GitHub Action sekali (lihat langkah di chat) — sebelum itu jalan, gambar di atas belum muncul*</sub>
-
 </div>
 
 ## 🎒 `hotbar.dat` — perks & traits
@@ -153,7 +151,6 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
   <img alt="contribution snake" width="100%" src="https://raw.githubusercontent.com/ahmadsetiawande/ahmadsetiawande/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<sub>*butuh setup GitHub Action sekali (lihat langkah di chat) — sebelum itu jalan, gambar di atas belum muncul*</sub>
 
 </div>
 
@@ -172,6 +169,5 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:1B5E20&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-<sub>&gt; process finished with exit code 0 ✅ — terima kasih sudah mampir, respawn lagi lain kali 🌲</sub>
 
 </div>
