@@ -141,7 +141,7 @@ craft >> Full-Stack Developer & AI Enthusiast ✅
 
 </div>
 
-## 🐍 `snake.exe` — kontribusi jadi game
+## 🐍 `snake.exe` — kontribusi jadi game uler
 
 <div align="center">
 
